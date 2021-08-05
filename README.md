@@ -1,1 +1,1 @@
-# tik-tok-cloone
+# tik-tok-clone

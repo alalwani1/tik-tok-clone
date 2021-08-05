@@ -10,5 +10,5 @@ Database: firebase
 
 <img width="593" alt="Screenshot 2021-08-05 at 6 37 03 PM" src="https://user-images.githubusercontent.com/87809858/128370293-15df987d-778f-46e3-8332-f5653163959f.png">
 
-# video
+# Note
 Video is being used only for self project purpose only.
